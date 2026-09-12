@@ -1,0 +1,8 @@
+interface:
+  display_name: "微信公众号带图 Word 归档"
+  short_description: "将多篇公众号文章分别制作成带图 Word 文件夹并校验打包"
+  default_prompt: "Use $wechat-article-word-archiver to archive these WeChat articles as illustrated Word documents in separate folders and package them as a ZIP."
+
+policy:
+  allow_implicit_invocation: true
+
